@@ -1,5 +1,4 @@
 
-
 library exercise_1;
 import 'dart:math';
 part 'fonctions.dart';
@@ -56,7 +55,6 @@ ex2_5(){
   print('');
   modifMembre(infoClub);
   print('');
-  modifGym(infoClub);
 }
 void main(){
   ex2_1();
