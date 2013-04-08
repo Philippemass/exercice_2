@@ -101,8 +101,4 @@ modifMembre(infoClub){
   infoClub['Maxiforme'] = 'Donald Trump';
   infoClub.forEach((x,y) => print('$x: $y'));
 }
-//modification d'un gym
-modifGym(infoClub){
-
-}
 
